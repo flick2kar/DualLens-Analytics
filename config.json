@@ -1,0 +1,6 @@
+{
+ "API_KEY": "gl-U2FsdGVkX1/myY/EhP+TuVSnYv5C8H845t3gK8Q5K4IhluVB729e5VsmLo+iBKkC",
+ "OPENAI_API_BASE": "https://aibe.mygreatlearning.com/openai/v1",
+ "API_KEYHUG":"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",
+ "OPENAI_API_BASEHUG":"https://router.huggingface.co/v1"
+}
